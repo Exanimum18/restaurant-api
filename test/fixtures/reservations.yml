@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  party_size: 1
+  booking_day: 2023-05-03 14:30:37
+  user: one
+  table: one
+
+two:
+  party_size: 1
+  booking_day: 2023-05-03 14:30:37
+  user: two
+  table: two
